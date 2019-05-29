@@ -1,0 +1,15 @@
+.bg-light {
+    background-color: #3b3b3c!important;
+}
+
+.navbar-light .navbar-brand {
+    color: #0e83f9;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #eef2f7;
+}
+
+.nav-link .hover {
+    color: #ff8138
+}
