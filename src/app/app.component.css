@@ -31,4 +31,6 @@
     align-items: center;
     justify-content: space-between;
     padding: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
