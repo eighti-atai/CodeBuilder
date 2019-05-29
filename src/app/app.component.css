@@ -10,6 +10,10 @@
     color: #eef2f7;
 }
 
-/* .nav-link .hover {
+/* .navbar-light .navbar-nav .hover {
     color: #ff8138
 } */
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #0e83f9;
+}
