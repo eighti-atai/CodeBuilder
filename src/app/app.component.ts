@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
   showArrows: boolean = true;
   disableSwiping: boolean = false;
   autoPlay: boolean = true;
-  autoPlayInterval: number = 3333;
+  autoPlayInterval: number = 8888;
   stopAutoPlayOnSlide: boolean = true;
   debug: boolean = false;
   backgroundSize: string = 'cover';
